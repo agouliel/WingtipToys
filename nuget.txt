@@ -1,0 +1,19 @@
+PM> Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
+
+Attempting to gather dependency information for multiple packages with respect to project 'WingtipToys', targeting '.NETFramework,Version=v4.7.2'
+Gathering dependency information took 777 ms
+Attempting to resolve dependencies for multiple packages.
+Resolving dependency information took 0 ms
+Resolving actions install multiple packages
+Retrieving package 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform 2.0.1' from 'nuget.org'.
+Executing script file 'C:\Users\goulielmos\Source\Repos\WingtipToys\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45\uninstall.ps1'
+Removed package 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform 2.0.1' from 'packages.config'
+Successfully uninstalled 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform 2.0.1' from WingtipToys
+Package 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1' already exists in folder 'C:\Users\goulielmos\Source\Repos\WingtipToys\packages'
+Added package 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1' to 'packages.config'
+Executing script file 'C:\Users\goulielmos\Source\Repos\WingtipToys\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45\install.ps1'
+Successfully installed 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform 2.0.1' to WingtipToys
+Executing nuget actions took 2,48 sec
+Time Elapsed: 00:00:03.7302016
+
+PM>
